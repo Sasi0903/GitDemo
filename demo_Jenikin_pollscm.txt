@@ -1,0 +1,1 @@
+THis is PollSCM example file
